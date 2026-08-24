@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hey, I'm Mokhtar Nabil 👋</h1>
 
 <p align="center">
@@ -37,7 +36,7 @@ class Mokhtar {
 
   final mindset = "Build → Learn → Improve → Repeat";
 }
-````
+
 
 ---
 
