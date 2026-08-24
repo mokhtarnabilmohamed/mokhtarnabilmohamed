@@ -111,8 +111,6 @@ Before focusing on mobile development, I gained hands-on experience across **tec
 
 These experiences helped me develop strong **communication, teamwork, problem-solving, and hands-on technical skills** alongside my software development journey.
 
----
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer"/> </p>
 
 <p align="center"> <b>Build something useful. Make it better. Repeat.</b> </p>
