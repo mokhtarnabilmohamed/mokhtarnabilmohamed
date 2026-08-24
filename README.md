@@ -24,7 +24,6 @@ I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user
 
 I enjoy turning ideas and requirements into real products, with a strong interest in **software engineering, problem solving, and UI/UX**.
 
-```dart
 class Mokhtar {
   final role = "Flutter Mobile Developer";
 
@@ -67,7 +66,7 @@ salamtak-mobile/
 ├── patient_app
 ├── provider_app
 └── shared_packages
-```
+
 
 Currently working on:
 
