@@ -1,6 +1,10 @@
 Hey, I'm Mokhtar Nabil 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Developer;Building+Clean+%26+Scalable+Apps;Problem+Solver;Always+Learning%2C+Always+Building" /><p align="center">
+<p align="center">
+  <a href="https://github.com/mokhtarnabilmohamed">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Flutter+Mobile+Developer;Building+Clean+%26+Scalable+Apps;Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
+</p><p align="center">
   <a href="https://linkedin.com/in/mokhtarnabilmohamed">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -11,13 +15,18 @@ Hey, I'm Mokhtar Nabil 👋
 
 "> whoami"
 
-I'm a Flutter Mobile Developer who enjoys turning ideas into real, usable products.
+I'm a Flutter Mobile Developer focused on building clean, scalable, and user-friendly cross-platform applications.
 
-I care about more than just making things work — I'm interested in clean architecture, maintainable code, thoughtful UI/UX, and solving problems efficiently.
+I enjoy turning ideas and requirements into real products, with a strong interest in software engineering, problem solving, and UI/UX.
 
 class Mokhtar {
   final role = "Flutter Mobile Developer";
-  final focus = ["Mobile Development", "Software Engineering", "UI/UX"];
+  final focus = [
+    "Mobile Development",
+    "Software Engineering",
+    "UI/UX",
+  ];
+
   final mindset = "Build → Learn → Improve → Repeat";
 }
 
@@ -26,10 +35,12 @@ class Mokhtar {
 ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,figma" alt="Tech Stack" />
 </p>Mobile: Flutter · Dart · REST APIs · Dio · JSON · Async Programming
+
 Engineering: OOP · Data Structures & Algorithms · Clean Code · Feature-Based Architecture
-UI/UX: Figma · Wireframing · Prototyping · User Flows · UX Research
+
+UI/UX: Figma · UI Design · UX Research · Wireframing · Prototyping · User Flows
 
 ---
 
@@ -37,7 +48,7 @@ UI/UX: Figma · Wireframing · Prototyping · User Flows · UX Research
 
 🩺 Salamtak
 
-A Flutter Healthcare Platform
+Flutter Healthcare Platform
 
 A cross-platform healthcare platform built as a monorepo with separate patient and provider applications, shared packages, and reusable components.
 
@@ -46,17 +57,19 @@ salamtak-mobile/
 ├── provider_app
 └── shared_packages
 
-I'm currently working on:
+Currently working on:
 
 - 📱 Flutter application development
 - 🔌 REST API integration with Dio
 - 🧩 Feature-based project structure
-- ♻️ Reusable components & shared packages
-- 🎨 UI implementation & application flows
+- ♻️ Reusable components and shared packages
+- 🎨 UI implementation and application flows
 
-"→ Explore the Repository" (https://github.com/salamtak-platform/salamtak-mobile)
-
----
+<p align="center">
+  <a href="https://github.com/salamtak-platform/salamtak-mobile">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>---
 
 🧠 Problem Solving
 
@@ -65,8 +78,8 @@ I'm currently working on:
 Algorithms, mathematics, sorting, data structures, and practical problem solving.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MokhtarNabilMohamed&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokhtarNabilMohamed&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mokhtarnabilmohamed&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtarnabilmohamed&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages" />
 </p>---
 
 🔥 What I'm Into
@@ -80,18 +93,16 @@ Algorithms, mathematics, sorting, data structures, and practical problem solving
 
 ---
 
-🌱 The Journey
+🌱 Beyond Code
 
-My background isn't limited to software development.
+Before focusing on mobile development, I gained hands-on experience across technical training, robotics, event operations, sales, marketing, and university outreach through INNOSPACE Academy.
 
-Before focusing on Flutter, I gained hands-on experience in technical training, robotics, event operations, sales, marketing, and university outreach through INNOSPACE Academy.
-
-That mix taught me how to communicate, work with people, solve problems under pressure, and actually build things — skills I still bring into software development today.
+These experiences helped me develop strong communication, teamwork, problem-solving, and hands-on technical skills alongside my software development journey.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Footer" />
 </p><p align="center">
   <b>Build something useful. Make it better. Repeat.</b>
 </p> 
