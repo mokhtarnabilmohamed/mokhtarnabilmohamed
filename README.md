@@ -88,7 +88,7 @@ Currently working on:
 
 > **200+ Codeforces problems solved**
 
-Algorithms, mathematics, sorting, data structures, and practical problem solving.
+In various topis; including: data structures & Algorithms, mathematics, and practical problem solving.
 
 ---
 
