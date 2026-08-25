@@ -1,13 +1,10 @@
 <h1 align="center">Hey, I'm Mokhtar Nabil 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Flutter+Mobile+Developer;Building+Clean+%26+Scalable+Apps;Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=50&lines=Flutter+Mobile+Developer;Building+Clean+%26+Scalable+Apps;Software+Engineer;Always+Learning%2C+Always+Building" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://github.com/mokhtarnabilmohamed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://linkedin.com/in/mokhtarnabilmohamed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -22,20 +19,17 @@
 
 I'm a **Flutter Mobile Developer** focused on building clean, scalable, and user-friendly cross-platform applications.
 
-I enjoy turning ideas and requirements into real products, with a strong interest in **software engineering, problem solving, and UI/UX**.
+I enjoy turning ideas and requirements into real products, with a strong interest in **software engineering, UI/UX design, and problem solving**.
 
-class Mokhtar {
+class Mokhtar {\n
   final role = "Flutter Mobile Developer";
-
   final focus = [
     "Mobile Development",
     "Software Engineering",
-    "UI/UX",
-  ];
-
-  final mindset = "Build → Learn → Improve → Repeat";
+    "UI/UX Design"
+  ];\n
+  final mindset = "Build → Learn → Improve → Repeat";\n
 }
-
 
 ---
 
@@ -47,7 +41,7 @@ class Mokhtar {
 
 **Mobile:** Flutter · Dart · REST APIs · Dio · JSON · Async Programming
 
-**Engineering:** OOP · Data Structures & Algorithms · Clean Code · Feature-Based Architecture
+**Engineering:** Data Structures & Algorithms · OOP · Clean Code · Feature-Based Architecture
 
 **UI/UX:** Figma · UI Design · UX Research · Wireframing · Prototyping · User Flows
 
@@ -88,7 +82,7 @@ Currently working on:
 
 > **200+ Codeforces problems solved**
 
-In various topis; including: data structures & Algorithms, mathematics, and practical problem solving.
+In various topis; including: data structures & Algorithms, mathematics, and practical problem solving techniques.
 
 ---
 
@@ -107,10 +101,9 @@ In various topis; including: data structures & Algorithms, mathematics, and prac
 
 ## 🌱 Beyond Code
 
-Before focusing on mobile development, I gained hands-on experience across **technical training, robotics, event operations, sales, marketing, and university outreach** through INNOSPACE Academy.
+Before focusing on mobile development, I gained hands-on experience across **training, digital fabrication, robotics, and event operations** through various volunteering experiences.
 
 These experiences helped me develop strong **communication, teamwork, problem-solving, and hands-on technical skills** alongside my software development journey.
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer"/> </p>
 
 <p align="center"> <b>Build something useful. Make it better. Repeat.</b> </p>
